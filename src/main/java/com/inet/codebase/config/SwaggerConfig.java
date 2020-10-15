@@ -62,6 +62,4 @@ public class SwaggerConfig {
         return Collections.singletonList(parameterBuilder.build());
     }
 
-
-
 }
